@@ -1,0 +1,23 @@
+{
+  "name": "perguntaserespostas",
+  "version": "1.0.0",
+  "description": "aplicação de perguntas e respostas em nodejs e bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavioleans/PerguntaseRespostas.git"
+  },
+  "author": "Flavio Leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavioleans/PerguntaseRespostas/issues"
+  },
+  "homepage": "https://github.com/flavioleans/PerguntaseRespostas#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
